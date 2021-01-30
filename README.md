@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently student at Ankara University. My department is Computer Engineering. I'm interested in Deep Learning and algorithms .
+
+:pencil2: ***My blog page:***
+- https://nidaugursisik.github.io
 <!--
 **NidaUgurSisik/nidaugursisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
