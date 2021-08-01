@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently student at Ankara University. My department is Computer Engineering. I'm interested in Deep Learning and Computer Vision .
+I am currently student at Ankara University.
 
 :pencil2: ***My blog page:***
 - https://nidaugursisik.github.io
