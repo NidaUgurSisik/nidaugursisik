@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=nidaugursisik&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats-sabesansathananthan.vercel.app/api/top-langs/?username=nidaugursisik&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
