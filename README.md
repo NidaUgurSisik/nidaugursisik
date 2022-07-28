@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently student at Ankara University.
+Graduated From Ankara University.
 
 :pencil2: ***My blog page:***
 - https://nidaugursisik.github.io
@@ -9,7 +9,7 @@ I am currently student at Ankara University.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on Sweephy
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
