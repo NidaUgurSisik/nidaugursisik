@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Graduated From Ankara University.
 🔭 I’m currently working on Sweephy
 :pencil2: ***My blog page:***
 - https://nidaugursisik.github.io 
